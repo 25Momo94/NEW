@@ -1,2 +1,4 @@
 This is a new text file.
 Writing and using commands of restore, rebase and rest.
+
+A new line is added to this file.
